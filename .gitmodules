@@ -1,0 +1,9 @@
+[submodule "NuttyNios-Client"]
+	path = NuttyNios-Client
+	url = https://github.com/dharmilshah99/NuttyNios-Client.git
+[submodule "NuttyNios-Hardware"]
+	path = NuttyNios-Hardware
+	url = https://github.com/dharmilshah99/NuttyNios-Hardware.git
+[submodule "NuttyNios-Server"]
+	path = NuttyNios-Server
+	url = https://github.com/dharmilshah99/NuttyNios-Server.git
