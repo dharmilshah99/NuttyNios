@@ -24,5 +24,8 @@ The following features of Nutty Nios fulfills the minimum functional requirement
 ## 2 Demonstration
 
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/83905363/194343884-10706e9b-3dee-4537-80a7-49b82771ff92.mp4" width=600/>
+  <video src="https://user-images.githubusercontent.com/83905363/194345566-c557f36b-cb5b-4745-b131-ef5d05416b11.mp4" width=600/>
 <div/>
+
+
+    
