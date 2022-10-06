@@ -21,7 +21,7 @@ The following features of Nutty Nios fulfills the minimum functional requirement
 - Establishing a Cloud Server to Process Events: A Colyseus Server hosted on AWS computes the next state of the game depending on directions published to the MQTT broker.
 - Communicating Information from the Server back to the Nodes: The FPGA toggles between sets of filter coefficients depending on the mode of the game - easy or hard - chosen by a player.
 
-## System Architecture
+## 2 System Architecture
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/83905363/194346008-d00611ac-1ca4-4b87-b2e3-4c3d02a7cd88.jpg"/>        
