@@ -13,7 +13,7 @@ Nutty Nios is a real-time multiplayer browser game based on Konami's Dance Dance
 
 During development, design decisions were made to ensure Nutty Nios was **responsive**, **portable** and **secure**. To meet these requirements, Nutty Nios was evaluated on its node's resource utilization as well as node to gateway and gateway to server round trip times.
 
-### 1.2 Funcctional Requirements
+### 1.2 Functional Requirements
 
 The following features of Nutty Nios fulfills the minimum functional requirements of the system:
 - Local processing of Accelerometer Data: The FPGA performs fixed point FIR filtering on data from its accelerometer sensor to smoothen it.
